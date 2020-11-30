@@ -1,4 +1,4 @@
-Defining the weights and returns of all sectors in portfolio and benchmark
+#Defining the weights and returns of all sectors in portfolio and benchmark
 port_weights = [6.77,8.52,36.22,5.24,18.53,14.46,10.26]
 bench_weights = [6.45,8.99,37.36,4.65,16.56,18.87,7.12]
 port_returns = [-0.82,-3.28,1.96,0.44,2.98,2.32,0.54]
